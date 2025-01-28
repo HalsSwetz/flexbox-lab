@@ -125,14 +125,7 @@
     justify-content: flex-end;
     align-items: center; 
     gap: 15px;
-    /* padding-left: 33%;
-    gap: .22em; */
-    /* gap: 5px; */
-}
-
-
-
-
+  }
 
   #hero {
     display: flex;
@@ -140,13 +133,7 @@
     align-items: center;
     justify-content: space-around;
 }
-  /* #header{
-    display: flex;
-    ;
-  } */
-  /* input[type=text] {
-    display: flex;
-  } */
+  
 
   #trending {
     display: flex;
@@ -163,31 +150,7 @@
     flex-direction: row;
     justify-content: space-between;
   }
-
-  /* main {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: flex-start;
-    flex-wrap: wrap;
-  }
-
-  .card {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    display: inline-block;
-    inset-block: center;
-    
-  }
-
-  .img-placeholder {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-
-  .card-footer {
-
-  } */
+/*added to main and card footer in the existing sections
+  /* add the flexbox to the css already in place now /*
+  /* not sure which is more recommended - to write a new section 
+  /*with all your flexbox code or to just add on to existing
